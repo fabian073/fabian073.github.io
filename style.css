@@ -1,0 +1,20 @@
+header {
+  background-image: url("http://images6.alphacoders.com/310/310008.jpg");height:100px;width:100%
+}
+nav {
+  background-image: url("http://images6.alphacoders.com/310/310008.jpg");height:1000px;width:13%;float:left
+}
+article{
+  background-image: url("http://wallpaperbeta.com/wallpaper_gray/gray_army_russia_camouflage_figure_digital_flora_hd-wallpaper-421881.jpg");height:1000px;width:100% 
+}
+footer {
+  background-image: url("http://images6.alphacoders.com/310/310008.jpg") 
+  }  
+a:link{font-size : 20pt; font-family:arial; color:white; }
+p{font-size : 20pt; font-family:arial; color:white; }
+form{font-size : 15pt; font-family:arial; color:white; }
+
+table, td, th 
+{border: none;}
+table {width: 87%;height:850px}
+th {height: 1px;}
